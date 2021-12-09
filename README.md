@@ -2,7 +2,7 @@
 
 1. This project is to forecast the HICP value for the basket goods mentioned above in Norway by processing the data from 2010-2021. The index tracks the prices of goods such as coffee, tobacco, meat, fruit, household appliances, cars, pharmaceuticals, electricity, clothing and many other widely used products. Thus it is also used as an Inflation Measure in the euro area and forecasting HICP can be used to understand inflation rates in the area.
 
-2. The project forecast could be a Point forecast but may also include a Range forecasting the possible values for HICP in the next year (2022).
+2. The project forecast could be a Point forecast for HICP in the next year (2022) but may also include a confidence interval.
 
 3. The accuracy of the forecast will be measured using one the below measures :
 MAD  Mean Absolute Value , 
