@@ -10,7 +10,7 @@ MSE Mean Squared Error,
 RMSE Root Mean Squared Error,
 MAPE Mean Absolute Percentage Error,
 MPE Mean Percentage Error 
-We are leaning more towards using RMSE as an accuracy measure as we would like an accuracy measure that would penalise us for errors in this particular prediction.
+. We are leaning more towards using RMSE as an accuracy measure as we would like an accuracy measure that would penalise us for errors in this particular prediction.
 
 4. The data was obtained from the economic research website FRED. (https://fred.stlouisfed.org/series/CP0118NOM086NEST)
 The frequency of the data is monthly starting from 2010 till 2021 August. The Harmonized Index of Consumer Prices category "Sugar, Jam, Honey, Chocolate, and Confectionery (01.1.8)" is a classification of nondurable goods that includes cane or beet sugar, unrefined or refined sugar, powdered sugar, crystallized sugar, or sugar lumps; jams, marmalades, chocolates etc. 
