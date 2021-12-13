@@ -18,7 +18,7 @@ The frequency of the data is monthly starting from 2010 till 2021 August. The Ha
 
 ## Team Members 
 
-Nishit Pabari https://github.com/n1sh1t9
+Nishit Pabari https://github.com/n1sh1t9 <br />
 William Cardona https://github.com/Wcard625  
 
 ## Models 
