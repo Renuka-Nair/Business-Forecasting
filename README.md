@@ -33,8 +33,8 @@ The project compared various models and below are some of the important ones : <
 ## Conclusion 
 
 At the end of the project, we gained enough insights to conclude that Holt-Winters/ARIMA are the best models for this particular prediction as they gave a decent RMSE value (if not the best) and also gave satisfactory residual analysis. The FRED website now has the most recent HICP values for September, October and November 2021 that were not there previously. If we compare these values to the forecast outputs of ARIMA and Holt-Winters, we can see the predictions are pretty spot on. <br />
-	      Actual HICP 	Holt-Winters	ARIMA <br />
-Sep-21	97.6	        96.7	        97.2  <br />
-Oct-21	96.2	        95.5	        96.1  <br />
+________|Actual HICP    |Holt-Winters   |ARIMA <br />
+Sep-21  |97.6           |96.7           |97.2  <br />
+Oct-21  |96.2           |95.5           |96.1  <br />
 <br />
 
